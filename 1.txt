@@ -8,15 +8,18 @@
 ! ============================================================
 
 ! Wikipedia donate banner
-www.wikipedia.org##.fundraising-banner
+wikipedia.org##.fundraising-banner
 
 ! Reddit promoted posts
-www.reddit.com##.promotedlink
-www.reddit.com##[data-promoted="true"]
+reddit.com##.promotedlink
+reddit.com##[data-promoted="true"]
 
 ! YouTube upsell / Premium nag
-www.youtube.com##ytd-mealbar-promo-renderer
-www.youtube.com##tp-yt-paper-dialog:has(yt-mealbar-promo-renderer)
+youtube.com##ytd-mealbar-promo-renderer
+youtube.com##tp-yt-paper-dialog:has(yt-mealbar-promo-renderer)
+
+! 13 Mar 2026
+search.brave.com###searchform-actions
 
 ! ============================================================
 ! NETWORK FILTERS - block requests
