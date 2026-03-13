@@ -1,7 +1,7 @@
 ! Title: Gus Custom Filters
 ! Description: Personal cosmetic and network filters
 ! Homepage: https://github.com/baguswp97/ublock/
-! Expires: 1 days
+! Expires: 2 days
 
 ! ============================================================
 ! COSMETIC FILTERS - hide elements
