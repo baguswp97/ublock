@@ -1,0 +1,36 @@
+! Title: Gus Custom Filters
+! Description: Personal cosmetic and network filters
+! Homepage: https://github.com/baguswp97/ublock/
+! Expires: 1 days
+
+! ============================================================
+! COSMETIC FILTERS - hide elements
+! ============================================================
+
+! Wikipedia donate banner
+www.wikipedia.org##.fundraising-banner
+
+! Reddit promoted posts
+www.reddit.com##.promotedlink
+www.reddit.com##[data-promoted="true"]
+
+! YouTube upsell / Premium nag
+www.youtube.com##ytd-mealbar-promo-renderer
+www.youtube.com##tp-yt-paper-dialog:has(yt-mealbar-promo-renderer)
+
+! ============================================================
+! NETWORK FILTERS - block requests
+! ============================================================
+
+! Block a specific tracker domain
+||analytics.example.com^
+
+! Block all subdomains of an ad network
+||*.doubleclick.net^
+
+! ============================================================
+! EXCEPTION / WHITELIST
+! ============================================================
+
+! Unblock a specific resource you whitelisted by mistake
+@@||cdn.example.com/legit-script.js^
