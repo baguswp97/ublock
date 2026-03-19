@@ -58,6 +58,12 @@ youtube.com##tp-yt-paper-tooltip:has([class*="ambient"])
 4play.to##.davwheat-ad-header.davwheat-ad
 4play.to##.adsfoo.stickyadswrapper
 
+! 14 Mar 2026 https://www.youtube.com
+www.youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:nth-of-type(2)
+my.nextdns.io##.show.alert-dismissible.alert-danger.alert.text-truncate.fade
+www.youtube.com##ytd-popup-container.ytd-app.style-scope
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+
 ! ============================================================
 ! NETWORK FILTERS - block requests
 ! ============================================================
