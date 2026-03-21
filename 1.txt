@@ -17,7 +17,6 @@ reddit.com##[data-promoted="true"]
 ! YouTube upsell / Premium nag
 youtube.com##ytd-mealbar-promo-renderer
 youtube.com##tp-yt-paper-dialog:has(yt-mealbar-promo-renderer)
-
 ! 13 Mar 2026
 search.brave.com###searchform-actions
 
@@ -57,7 +56,8 @@ youtube.com##tp-yt-paper-tooltip:has([class*="ambient"])
 ! 11 Mar 2026 https://4play.to
 4play.to##.davwheat-ad-header.davwheat-ad
 4play.to##.adsfoo.stickyadswrapper
-
+ferizy.com###modal-radius-restriction
+ferizy.com##.modal-backdrop.in
 ! 14 Mar 2026 https://www.youtube.com
 www.youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:nth-of-type(2)
 my.nextdns.io##.show.alert-dismissible.alert-danger.alert.text-truncate.fade
