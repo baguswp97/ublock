@@ -5,8 +5,8 @@
 // @author       guslockhart
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
-// @updateURL    https://gist.github.com/barraIhsan/bc901bc9c3604749d48361d23a094d29/raw/ytPremiumLogo.user.js
-// @downloadURL  https://gist.github.com/barraIhsan/bc901bc9c3604749d48361d23a094d29/raw/ytPremiumLogo.user.js
+// @updateURL    https://github.com/guslockhart/ublock/raw/blocklist/yt.user.js
+// @downloadURL  https://github.com/guslockhart/ublock/raw/blocklist/yt.user.js
 // ==/UserScript==
 
 (function() {
