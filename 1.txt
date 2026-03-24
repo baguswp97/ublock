@@ -1,6 +1,6 @@
-! Title: Gus Custom Filters
+! Title: Gustavo's Custom Filters
 ! Description: Personal cosmetic and network filters
-! Homepage: https://github.com/baguswp97/ublock/
+! Homepage: https://github.com/guslockhart/ublock/
 ! Expires: 2 days
 
 ! ============================================================
@@ -69,13 +69,110 @@ www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.y
 
 ! Block a specific tracker domain
 ||analytics.example.com^
-
-! Block all subdomains of an ad network
+||doubleclick.net^
+||doubleclick.com^
+||doubleclick.cn^
+||doubleclick-cn.net^
+||googleads.g.doubleclick.net^
+||adclick.g.doubleclick.net^
+||pagead.l.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googlesyndication.com^
+||googlesyndication-cn.com^
+||afs.googlesyndication.com^
+||domains.googlesyndication.com^
+||video-ad-stats.googlesyndication.com^
+||ade.googlesyndication.com^
+||googleadservices.com^
+||googleadservices-cn.com^
+||googleads.com^
+||googleads-cn.com^
+||googleadapis.com^
+||googleadsserving.cn^
+||googletraveladservices.com^
+||googletraveladservices-cn.com^
+||googlevads.com^
+||googlevads-cn.com^
+||mail-ads.google.com^
+||mobileads.google.com^
+||adservice.google.com^
+||ads.google.com^
+||fcmatch.google.com^
+||googletagservices.com^
+||googletagservices-cn.com^
+||googletagmanager.com^
+||googletagmanager-cn.com^
+||google-analytics.com^
+||google-analytics-cn.com^
+||googleanalytics.com^
+||googleoptimize.com^
+||googleoptimize-cn.com^
+||app-measurement.com^
+||app-measurement-cn.com^
+||app-analytics-services-att.com^
+||adtrafficquality.google^
+||2mdn.net^
+||video-stats.video.google.com^
+||innovid.com^
+||s.innovid.com^
+||fw.innovid.com^
+||adform.net^
+||adform.com^
+||flashtalking.com^
+||servedby.flashtalking.com^
+||extremereach.com^
+||ads.extremereach.com^
+||doubleverify.com^
+||cdn.doubleverify.com^
+||integralads.com^
+||pixel.adsafeprotected.com^
+||fw.adsafeprotected.com^
+||adsafeprotected.com^
+||moat.com^
+||z.moat.com^
+||sizmek.com^
+||bs.serving-sys.com^
+||adsymptotic.com^
+||dynata.com^
+||imrworldwide.com^
+||secure-us.imrworldwide.com^
+||nielsen.com^
+||scorecardresearch.com^
+||beacon.scorecardresearch.com^
+||weborama.fr^
+||weborama.com^
+||solution.weborama.fr^
+||exactag.com^
+||kantar.com^
+||insightexpress.com^
+||k.sdn.intl.kantar.com^
+||c3metrics.com^
+||googletaggateway.com^
+||td.doubleclick.net^
+||admob.com^
+||googleadmob.com^
+||googleads4.g.doubleclick.net^
+||ad.doubleclick.net^
+||cm.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||fls.doubleclick.net^
+||floodlight.doubleclick.net^
 ||*.doubleclick.net^
+||doubleclickbygoogle.com^
+||doubleclicksearch.com^
+||doubleclickusercontent.com^
+||googledoubleclick.net^
+||admeld.com^
+||adometry.com^
+||adrollo.com^
+||adsense.com^
+||adsbygoogle.com^
+||adsenseformobileapps.com^
 
 ! ============================================================
 ! EXCEPTION / WHITELIST
 ! ============================================================
 
-! Unblock a specific resource you whitelisted by mistake
+! Unblock a specific script
 @@||cdn.example.com/legit-script.js^
