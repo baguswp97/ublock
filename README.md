@@ -1,4 +1,4 @@
-# 🛡️ Gustavo's Custom Filters
+# 🛡️ Gus' Custom Filters
 
 Personal cosmetic and network filters for [uBlock Origin](https://github.com/gorhill/uBlock). Mostly opinionated stuff that the big lists don't cover — ads and widgets, leftover telemetry, and things that just bother me personally.
 
@@ -7,12 +7,12 @@ Personal cosmetic and network filters for [uBlock Origin](https://github.com/gor
 
 Click the link below to add these filters directly to uBlock Origin:
 
-[![Subscribe](https://img.shields.io/badge/uBlock%20Origin-Subscribe-red?logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/guslockhart/ublock/blocklist/1.txt&title=Gustavo%27s%20Custom%20Filters)
+[![Subscribe](https://img.shields.io/badge/uBlock%20Origin-Subscribe-red?logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/baguswp97/ublock/blocklist/1.txt&title=Gus%27%20Custom%20Filters)
 
 Or add the raw URL manually in **uBlock Origin → Filter lists → Import**:
 
 ```
-https://raw.githubusercontent.com/guslockhart/ublock/blocklist/1.txt
+https://raw.githubusercontent.com/baguswp97/ublock/blocklist/1.txt
 ```
 
 ## What's in here?
@@ -51,9 +51,9 @@ I run this using uBlock Origin on Firefox. Though, it might still work on other 
 
 ## License
 
-**Gustavo's Custom Filters**  
-[https://github.com/guslockhart/ublock](https://github.com/guslockhart/ublock)    
-MIT (c) Gustavo  
+**Gus' Custom Filters**  
+[https://github.com/baguswp97/ublock](https://github.com/baguswp97/ublock)    
+MIT (c) baguswp97  
 do whatever you want with it.
 
 **Mozilla Firefox**  
