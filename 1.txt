@@ -1,6 +1,6 @@
-! Title: Gustavo's Custom Filters
+! Title: Gus' Custom Filters
 ! Description: Personal cosmetic and network filters
-! Homepage: https://github.com/guslockhart/ublock/
+! Homepage: https://github.com/baguswp97/ublock/
 ! Expires: 2 hours
 
 wikipedia.org##.fundraising-banner
