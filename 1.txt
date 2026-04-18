@@ -8,14 +8,11 @@ www.facebook.com##.bottom.fixed-container.m
 premid.app##.cookieControl__BarContainer
 premid.app##.cookieControl__Bar--bottom-full.cookieControl__Bar
 premid.app##.duration-300.transition-all.no-underline.cursor-pointer.py-4.px-4.rounded-2xl.text-white.to-\#764ba2.from-\#667eea.bg-gradient-to-br.items-center.flex.z-1000.right-8.bottom-8.fixed
-m.youtube.com###home-icon > .ytSpecIconShapeHost.yt-icon-shape > div
 fandom.com##.bottom-ads-container
 fandom.com##.top_leaderboard-odyssey-wrapper
 fandom.com##.ad-slot.sticky-medrec
 fandom.com##div#top-ads-container
 fandom.com##div:has(> .ad-slot)
-m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
-m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 claude.ai##.dark\:bg-bg-300.py-3.px-4.bg-bg-100.border-border-300.border-b-\[0\.5px\].gap-2.items-center.shrink-0.w-full.flex.z-\[31\].top-0.sticky
 ||facebook.net^$third-party
 ||connect.facebook.net^$third-party
