@@ -50,3 +50,8 @@
         checkYtIconExistence();
     });
 })();
+
+setInterval(() => {
+  document.dispatchEvent(new MouseEvent('mousemove'));
+  document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Shift' }));
+}, 5 * 60 * 1000);
