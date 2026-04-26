@@ -1,18 +1,18 @@
 # 🛡️ Gus' Custom Filters
 
-Personal cosmetic and network filters for [uBlock Origin](https://github.com/gorhill/uBlock). Mostly opinionated stuff that the big lists don't cover — ads and widgets, leftover telemetry, and things that just bother me personally.
+Personal cosmetic and network filters. Mostly opinionated stuff that the big lists don't cover — ads and widgets, leftover telemetry, and things that just bother me personally. I use this blocklist with Brave Shields. That said, it should also work on other content blocker that support AdBlock Plus syntax
 
 
 ## Subscribe
 
-Click the link below to add these filters directly to uBlock Origin:
+Click the link below to add these filters directly to Brave:
 
-[![Subscribe](https://img.shields.io/badge/uBlock%20Origin-Subscribe-red?logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/baguswp97/ublock/blocklist/1.txt&title=Gus%27%20Custom%20Filters)
+[![Subscribe](https://img.shields.io/badge/Brave%20Shields-Subscribe-orange?logo=brave&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/guslockhart/ublock/blocklist/1.txt&title=Gus%27%20Custom%20Filters)
 
-Or add the raw URL manually in **uBlock Origin → Filter lists → Import**:
+Or add the raw URL manually in **brave://settings/shields/filters → Add custom filter lists**:
 
 ```
-https://raw.githubusercontent.com/baguswp97/ublock/blocklist/1.txt
+https://raw.githubusercontent.com/guslockhart/ublock/blocklist/1.txt
 ```
 
 ## What's in here?
@@ -25,7 +25,7 @@ These filters are a complement to the big lists not a replacement. They cover ga
 
 ## Disclaimer
 
-I run this using uBlock Origin on Firefox. Though, it might still work on other browser that supports AdBlock plus syntax content blocker too. This list complements to two third-party blocklists i use that do the heavy lifting:
+This list complements to two third-party blocklists i use that do the heavy lifting:
 
 - **Hagezi's Blocklists**
 	- HaGeZi's Ultimate DNS Blocklist
@@ -52,21 +52,9 @@ I run this using uBlock Origin on Firefox. Though, it might still work on other 
 ## License
 
 **Gus' Custom Filters**  
-[https://github.com/baguswp97/ublock](https://github.com/baguswp97/ublock)    
-MIT (c) baguswp97  
+[https://github.com/guslockhart/ublock](https://github.com/guslockhart/ublock)    
+MIT (c) guslockhart  
 do whatever you want with it.
-
-**Mozilla Firefox**  
-[https://github.com/mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)  
-Mozilla Public License 2.0  
-(c) Mozilla Foundation  
-I have contributed minor improvements to this project where relevant, but i do not own, or claim any rights over this project. All credit and intellectual property belong to Mozilla Foundation and contributors.
-
-**uBlock Origin**  
-[https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)  
-GNU General Public License v3.0  
-(c) Raymond Hill  
-I do not own, contribute to, or claim any rights over this project. All credit and intellectual property belong to Raymond Hill and contributors.
 
 **AdGuard Filters**  
 [https://github.com/AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)  
