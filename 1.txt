@@ -4,6 +4,14 @@
 ! Expires: 2 hours
 
 5sim.net##.z-20.mx-auto.xl\:bottom-12.sm\:bottom-8.bottom-4.xl\:inset-x-20.lg\:inset-x-12.sm\:inset-x-8.inset-x-4.fixed.dark\:bg-\[\#1e2e3e\].bg-white.max-w-screen-2xl.rounded-2xl.items-start.xl\:gap-6.grid-cols-\[1fr_auto\].grid
+animepahe.pw##.ann-fakesite.show.fade.alert-dismissible.alert-top.alert
+anizone.to##.w-full.min-h-\[90px\].max-w-\[728px\].relative
+f95zone.to##.ad-mobile
+f95zone.to###floating-ad-wrapper
+www.hops.id##.ads__horizontal
+www.hops.id##.ads--stick-parent-250px.clearfix.mt3.ads
+www.hops.id##center > .ads--stick-parent-400px.clearfix.mt3
+.ads
 www.facebook.com##.bottom.fixed-container.m
 premid.app##.cookieControl__BarContainer
 premid.app##.cookieControl__Bar--bottom-full.cookieControl__Bar
