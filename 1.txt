@@ -1,6 +1,6 @@
 ! Title: Gus' Custom Filters
 ! Description: Personal cosmetic and network filters
-! Homepage: https://github.com/baguswp97/ublock/
+! Homepage: https://github.com/guslockart/ublock/
 ! Expires: 2 hours
 
 5sim.net##.z-20.mx-auto.xl\:bottom-12.sm\:bottom-8.bottom-4.xl\:inset-x-20.lg\:inset-x-12.sm\:inset-x-8.inset-x-4.fixed.dark\:bg-\[\#1e2e3e\].bg-white.max-w-screen-2xl.rounded-2xl.items-start.xl\:gap-6.grid-cols-\[1fr_auto\].grid
@@ -3063,7 +3063,6 @@ mail.google.com,drive.google.com,docs.google.com##div[role="tooltip"]:has-text(T
 ||adsense.com^
 ||adsbygoogle.com^
 ||adsenseformobileapps.com^
-
 ||trackersimulator.org^$subdocument
 ||eviltracker.net^$subdocument
 ||do-not-tracker.org^$subdocument
