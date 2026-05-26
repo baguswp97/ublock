@@ -2175,19 +2175,19 @@ youtube.com##yt-tab-shape[tab-title="Store"]
 www.youtube.com##.ytd-recognition-shelf-renderer
 drfone.wondershare.com##.show.modal-leave.fade.modal
 drfone.wondershare.com##.show.fade.modal-backdrop
-www.google.com##.plR5qb
-www.google.com##.lJ9FBc.FPdoLc > center > .gNO89b
-www.google.com##.goxjub
-www.google.com##a.MV3Tnb:nth-of-type(2)
-www.google.com##.ssOUyb.KxwPGc > .pHiOh
-www.google.com##.BJ1Ird.nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
-www.google.com##.gMZyfc
-www.google.com##.smiUbb.fbar
-www.google.com###hdtb-tls > .mXwfNd > .mVH5Fc
-www.google.com##.XDyW0e
-www.google.com##.updCae.hdtb-mitem
-www.google.com###bottomads
-www.google.com###taw
+www.google.*##.plR5qb
+www.google.*##.lJ9FBc.FPdoLc > center > .gNO89b
+www.google.*##.goxjub
+www.google.*##a.MV3Tnb:nth-of-type(2)
+www.google.*##.ssOUyb.KxwPGc > .pHiOh
+www.google.*##.BJ1Ird.nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+www.google.*##.gMZyfc
+www.google.*##.smiUbb.fbar
+www.google.*###hdtb-tls > .mXwfNd > .mVH5Fc
+www.google.*##.XDyW0e
+www.google.*##.updCae.hdtb-mitem
+www.google.*###bottomads
+www.google.*###taw
 google.com##a[href*="sukebezone.com"]:upward(2):remove()
 google.com##a[href*="fantasygf.ai"]:upward(2):remove()
 google.com##a[href*="n8ked.app"]:upward(2):remove()
@@ -3106,7 +3106,7 @@ bunkr.site##+js(acs, WebAssembly, Promise)
 ||adm.shinobi.jp^$3p
 ||ad-spire.net^
 ||isboost.co.jp^
-www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.com,www.google.com.ar,www.google.com.au,www.google.com.br,www.google.com.co,www.google.com.ec,www.google.com.eg,www.google.com.hk,www.google.com.mx,www.google.com.my,www.google.com.pe,www.google.com.ph,www.google.com.pk,www.google.com.py,www.google.com.sa,www.google.com.sg,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk##[aria-label="Search by voice"]
+www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.*,www.google.*.ar,www.google.*.au,www.google.*.br,www.google.*.co,www.google.*.ec,www.google.*.eg,www.google.*.hk,www.google.*.mx,www.google.*.my,www.google.*.pe,www.google.*.ph,www.google.*.pk,www.google.*.py,www.google.*.sa,www.google.*.sg,www.google.*.tr,www.google.*.tw,www.google.*.ua,www.google.*.uy,www.google.*.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk##[aria-label="Search by voice"]
 ft.com##+js(rc, sp-message-open, html, stay)
 billboard.com,hollywoodreporter.com,vibe.com,sportico.com,artnews.com,robbreport.com,wwd.com,indiewire.com,deadline.com,goldderby.com,9gag.com,variety.com##+js(rmnt, script, html-load.com)
 billboard.com,hollywoodreporter.com,vibe.com,sportico.com,artnews.com,robbreport.com,wwd.com,indiewire.com,deadline.com,goldderby.com,9gag.com,variety.com##+js(trusted-replace-argument, HTMLScriptElement.prototype.setAttribute, 1, , condition, /error-report|new Promise/)
@@ -5627,9 +5627,9 @@ baeldung.com##+js(set-session-storage-item, fs.adb.dis, 1)
 newrepublic.com,smithsonianmag.com,thenation.com##+js(set-local-storage-item, fs.adb, 1)
 google.com##.Ryrdad:has-text(Please help us improve)
 developer.android.com##.devsite-snackbar-snack:has-text(Please help us)
-www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome/)
+www.google.*##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome/)
 chromewebstore.google.com##[aria-label="Info"]:has-text(Switch to Chrome)
-www.google.com##[aria-describedby="promo_desc_id"]:has-text(Keep things dark)
+www.google.*##[aria-describedby="promo_desc_id"]:has-text(Keep things dark)
 google.com##[jscontroller="HCSvae"]:has-text(Sign in to Google)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 google.com##div[jsname="wA2P2b"]:has-text(How helpful were the results)
@@ -5713,8 +5713,8 @@ tioeroge.blogspot.com##.popSc
 reddit.com###credential_picker_container
 reddit.com###credential_picker_iframe
 google.com###google-hats-survey
-www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.com,www.google.com.ar,www.google.com.au,www.google.com.br,www.google.com.co,www.google.com.ec,www.google.com.eg,www.google.com.hk,www.google.com.mx,www.google.com.my,www.google.com.pe,www.google.com.ph,www.google.com.pk,www.google.com.py,www.google.com.sa,www.google.com.sg,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk###div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
-www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.com,www.google.com.ar,www.google.com.au,www.google.com.br,www.google.com.co,www.google.com.ec,www.google.com.eg,www.google.com.hk,www.google.com.mx,www.google.com.my,www.google.com.pe,www.google.com.ph,www.google.com.pk,www.google.com.py,www.google.com.sa,www.google.com.sg,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk##div.nD2EKb.VEELad
+www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.*,www.google.*.ar,www.google.*.au,www.google.*.br,www.google.*.co,www.google.*.ec,www.google.*.eg,www.google.*.hk,www.google.*.mx,www.google.*.my,www.google.*.pe,www.google.*.ph,www.google.*.pk,www.google.*.py,www.google.*.sa,www.google.*.sg,www.google.*.tr,www.google.*.tw,www.google.*.ua,www.google.*.uy,www.google.*.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk###div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
+www.google.ac,www.google.ae,www.google.at,www.google.be,www.google.bg,www.google.by,www.google.ca,www.google.ch,www.google.cl,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.nz,www.google.co.th,www.google.co.uk,www.google.co.ve,www.google.co.za,www.google.*,www.google.*.ar,www.google.*.au,www.google.*.br,www.google.*.co,www.google.*.ec,www.google.*.eg,www.google.*.hk,www.google.*.mx,www.google.*.my,www.google.*.pe,www.google.*.ph,www.google.*.pk,www.google.*.py,www.google.*.sa,www.google.*.sg,www.google.*.tr,www.google.*.tw,www.google.*.ua,www.google.*.uy,www.google.*.vn,www.google.cz,www.google.de,www.google.dk,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fr,www.google.gr,www.google.hr,www.google.hu,www.google.ie,www.google.it,www.google.lt,www.google.lv,www.google.nl,www.google.no,www.google.pl,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.se,www.google.sk##div.nD2EKb.VEELad
 thebetterindia.com##.vspl__gtap-notification-content
 thebetterindia.com##.vspl__gtap-notification-overlay
 grubhub.com,dashboard.razorpay.com,joinhoney.com#@##credential_picker_container
@@ -8432,9 +8432,9 @@ tv.youtube.com,www.youtube.com,m.youtube.com##+js(brave-video-bg-play-update)
 twitch.tv##+js(vaft-ublock-origin)
 twitch.tv##+js(no-fetch-if, edge.ads.twitch.tv)
 radioonline.com.pt,emisora.org.es,radio.co.dk,radios.co.at,tv.youtube.com,www.youtube.com,m.youtube.com##+js(brave-disable-pageview-api)
-www.google.com,www.google.ca,www.google.com.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##.gTMtLb.fp-nh[style="visibility: visible;"]
-www.google.com,www.google.ca,www.google.com.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##html.TaoyYc:style(position: static !important; overflow: auto !important; width: auto !important;)
-www.google.com,www.google.ca,www.google.com.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##iframe[src^="https://ogs.google."][src*="/widget/callout?prid="]
+www.google.*,www.google.ca,www.google.*.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##.gTMtLb.fp-nh[style="visibility: visible;"]
+www.google.*,www.google.ca,www.google.*.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##html.TaoyYc:style(position: static !important; overflow: auto !important; width: auto !important;)
+www.google.*,www.google.ca,www.google.*.au,www.google.co.nz,www.google.co.uk,www.google.ie,www.google.fr,www.google.nl,www.google.pt,www.google.de##iframe[src^="https://ogs.google."][src*="/widget/callout?prid="]
 m.youtube.com##+js(rc, paused-mode, , stay)
 www.youtube.*##+js(brave-auto-pip)
 *_ad_$media,domain=youtube.com,3p
@@ -8453,3 +8453,15 @@ youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
 youtube.com##.ytGridShelfViewModelHost
 youtube.com##.ytChipShapeHost:has-text(Shorts)
+www.google.*##.HTjtHe
+www.google.*##.Fzsovc.cwYVJe.RJPOee > strong 
+www.google.*##div.WaaZC:nth-of-type(1) > .RJPOee.EIJn2 > .rPeykc 
+www.google.*##li.K3KsMc:nth-of-type(1) > .zMgcWd.dSKvsb > div:nth-of-type(1) > .xFTqob > .vM0jzc > span:nth-of-type(1) 
+www.google.*##.f5cPye > div:nth-of-type(1) 
+www.google.*##.niO4u.VDgVie.SlP8xc 
+www.google.*##div.S6UuMb.Vwoesf:nth-of-type(1) > .XNo5Ab.lWlVCe 
+www.google.*##.X6JNf 
+www.google.*##.h7Tj7e
+www.google.*##.GcKpu
+www.google.*##.dRpWwb.M8OgIe.bzXtMb
+
