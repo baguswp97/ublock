@@ -2,11 +2,11 @@
 // @name         YouTube Premium Logo
 // @version      1.0
 // @description  Changes the YouTube logo to Premium
-// @author       baguswp97
+// @author       guslockhart
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
-// @updateURL    https://github.com/baguswp97/ublock/raw/blocklist/ytprem.user.js
-// @downloadURL  https://github.com/baguswp97/ublock/raw/blocklist/ytprem.user.js
+// @updateURL    https://github.com/guslockhart/ublock/raw/blocklist/yt.user.js
+// @downloadURL  https://github.com/guslockhart/ublock/raw/blocklist/yt.user.js
 // ==/UserScript==
 
 (function() {
