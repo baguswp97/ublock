@@ -2124,7 +2124,6 @@ youtube.com##tp-yt-paper-tooltip:has([class*="ambient"])
 4play.to##.adsfoo.stickyadswrapper
 ferizy.com###modal-radius-restriction
 ferizy.com##.modal-backdrop.in
-www.youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:nth-of-type(2)
 my.nextdns.io##.show.alert-dismissible.alert-danger.alert.text-truncate.fade
 www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
 youtube.com###survey
@@ -2178,7 +2177,6 @@ drfone.wondershare.com##.show.fade.modal-backdrop
 www.google.*##.plR5qb
 www.google.*##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.*##.goxjub
-www.google.*##a.MV3Tnb:nth-of-type(2)
 www.google.*##.ssOUyb.KxwPGc > .pHiOh
 www.google.*##.BJ1Ird.nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.*##.gMZyfc
@@ -8454,11 +8452,7 @@ youtube.com##.ytGridShelfViewModelHost
 youtube.com##.ytChipShapeHost:has-text(Shorts)
 www.google.*##.HTjtHe
 www.google.*##.Fzsovc.cwYVJe.RJPOee > strong 
-www.google.*##div.WaaZC:nth-of-type(1) > .RJPOee.EIJn2 > .rPeykc 
-www.google.*##li.K3KsMc:nth-of-type(1) > .zMgcWd.dSKvsb > div:nth-of-type(1) > .xFTqob > .vM0jzc > span:nth-of-type(1) 
-www.google.*##.f5cPye > div:nth-of-type(1) 
 www.google.*##.niO4u.VDgVie.SlP8xc 
-www.google.*##div.S6UuMb.Vwoesf:nth-of-type(1) > .XNo5Ab.lWlVCe 
 www.google.*##.X6JNf 
 www.google.*##.h7Tj7e
 www.google.*##.GcKpu
