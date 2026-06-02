@@ -7767,3 +7767,20 @@ youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
 youtube.com##.ytGridShelfViewModelHost
 youtube.com##.ytChipShapeHost:has-text(Shorts)
+f95zone.to##.node--link.node--depth2.node--id129.node
+f95zone.to##.node--link.node--depth2.node--id136.node
+f95zone.to##.node--link.node--depth2.node--id127.node > .node-body
+f95zone.to##.node--link.node--depth2.node--id145.node
+www.allrecipes.com##.mntl-block.mntl-sc-block-adslot.mm-recipes-intro__adslot.comp
+www.allrecipes.com##.mntl-block.mntl-sc-block-adslot.mntl-sc-block.comp
+www.allrecipes.com##.square.gpt.mm-ads-square.mm-ads-gpt-adunit.mm-ads-gpt-dynamic-adunit.mm-ads-lazy-ad.mm-ads-lazy-square.mm-ads-square-fixed-lazy.mm-ads-mob-square-fixed-lazy.mm-ads-mob-square-fixed-ing-jtr.mob-square-fixed-ing-jtr-placeholder.comp
+www.allrecipes.com##.is-requested.js-lazy-ad.dynamic.square.gpt.ugc-threaded-scroll-to-anchor.mm-ads-square.mm-ads-gpt-adunit.mm-ads-gpt-dynamic-adunit.mm-ads-lazy-ad.mm-ads-lazy-square.mm-ads-square-fixed-lazy.mm-ads-mob-square-fixed-lazy.mm-ads-mob-square-fixed-ac.comp
+www.allrecipes.com##.mm-ads-sc-sticky-square.mm-ads-mobSquareFixed-sticky-dynamic
+www.allrecipes.com##.is-requested.js-lazy-ad.dynamic.square.gpt.mm-ads-square.mm-ads-gpt-adunit.mm-ads-gpt-dynamic-adunit.mm-ads-lazy-ad.mm-ads-lazy-square.mm-ads-square-fixed-lazy.mm-ads-mob-squarefooter-fixed-1-lazy.comp
+www.allrecipes.com##.is-requested.js-lazy-ad.dynamic.square.gpt.mm-ads-square.mm-ads-gpt-adunit.mm-ads-gpt-dynamic-adunit.mm-ads-lazy-ad.mm-ads-lazy-square.mm-ads-square-fixed-lazy.mm-ads-mob-squarefooter-fixed-2-lazy.comp
+www.allrecipes.com##.adhesive.gpt.mob-adhesive-visible.mm-ads-gpt-adunit.mm-ads-adhesive-ad.mm-ads-mob-adhesive-banner-fixed-ad.comp
+search.brave.com##.svelte-1uzjrox.tap-input-primary-actions > .svelte-7b1tqz.header-button > .svelte-7b1tqz.header-button-icon
+search.brave.com##.svelte-1uzjrox.tap-input-clear-button > .icon > path
+search.brave.com##.svelte-t22puq.t-tertiary.desktop-xsmall-regular.ask-ai-disclaimer
+www.bilibili.tv##.bstar-header__openapp
+www.bilibili.tv##.dialog--mobile.video-toapp-dialog.dialog
