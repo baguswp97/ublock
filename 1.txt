@@ -7784,3 +7784,14 @@ search.brave.com##.svelte-1uzjrox.tap-input-clear-button > .icon > path
 search.brave.com##.svelte-t22puq.t-tertiary.desktop-xsmall-regular.ask-ai-disclaimer
 www.bilibili.tv##.bstar-header__openapp
 www.bilibili.tv##.dialog--mobile.video-toapp-dialog.dialog
+search.brave.com##.svelte-17pwp0o.ask-history-info
+search.brave.com##.svelte-t22puq.t-tertiary.desktop-xsmall-regular.ask-ai-disclaimer
+duckduckgo.com##.chxup99gSm7SXMNSQVVj.kx_cCSPQ6Txq831rr4pC
+duckduckgo.com##.Bc66QlKz0vUPXkBVEjPn
+duckduckgo.com##.d26Geqs1C__RaCO7MUs2.wZ4JdaHxSAhGy1HoNVja.VssOcyhy47YNtTsYTdr0.FjSJqhByQmoYMVscUoQe.Pd_jmhkZzftl0UtTaw0u
+duckduckgo.com##.js-side-menu-open.header__button--menu
+##div:has(span:has-text(/advertisement/i))
+##.ad-unit-wrapper
+##div:has-text(/advertisement/i)
+##section:has-text(/advertisement/i)
+##aside:has-text(/advertisement/i)
