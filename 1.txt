@@ -1,7 +1,7 @@
 ! Title: Gus' Custom Filters
 ! Description: Personal cosmetic and network filters
 ! Homepage: https://github.com/guslockart/ublock/
-! Expires: 2 hours
+! Expires: 7 days
 
 5sim.net##.z-20.mx-auto.xl\:bottom-12.sm\:bottom-8.bottom-4.xl\:inset-x-20.lg\:inset-x-12.sm\:inset-x-8.inset-x-4.fixed.dark\:bg-\[\#1e2e3e\].bg-white.max-w-screen-2xl.rounded-2xl.items-start.xl\:gap-6.grid-cols-\[1fr_auto\].grid
 animepahe.pw##.ann-fakesite.show.fade.alert-dismissible.alert-top.alert
@@ -7795,3 +7795,16 @@ duckduckgo.com##.js-side-menu-open.header__button--menu
 ##div:has-text(/advertisement/i)
 ##section:has-text(/advertisement/i)
 ##aside:has-text(/advertisement/i)
+www.bilibili.tv##.dialog__wrap--show-bg.dialog__wrap--show.dialog__wrap
+www.bilibili.tv##.dialog--mobile.video-toapp-dialog.dialog
+economictimes.com##.sharePbanner
+economictimes.com##.taboolaAd
+##.visible.cookie-consent
+x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-2j7rtt.r-obd0qt.r-1vsu8ta.r-1777fci.r-1pz39u2.css-175oi2r > .r-dnmrzs.css-175oi2r > .css-175oi2r
+x.com##.r-1wtj0ep.r-1cmwbt1.r-18u37iz.r-1awozwy.css-175oi2r > .r-1h0z5md.r-18u37iz.css-175oi2r
+x.com##a.r-1loqt21.r-1ny4l3l.r-1777fci.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(3) > .r-6416eg.r-o7ynqc.r-edyy15.r-1e6yznf.r-xf4iuw.r-dnmrzs.r-sdzlij.css-175oi2r > .css-175oi2r > .r-cnnz9e.r-lwhw9o.r-18jsvk2.r-m6rgpd.r-lrvibr.r-bnwqim.r-dnmrzs.r-yyyyoo.r-4qtqp9
+x.com##a.r-1loqt21.r-1ny4l3l.r-1777fci.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(3)
+search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
+claude.ai##.pointer-events-none.draggable-none.p-4.gap-3.flex-col.flex.z-toast.top-0.fixed
+google.*##[data-text-ad]
+google.*##a[data-pcu]:upward(3)
