@@ -8008,3 +8008,4 @@ www.youtube.com##ytd-talk-to-recs-flow-renderer
 ||mfgpt.milanofinanza.it/widget/widget.js
 ||widget.kapa.ai^$third-party
 ||widget.prod.equally.ai^$third-party
+duckduckgo.com##[id^="ra-"]
