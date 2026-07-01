@@ -28520,7 +28520,6 @@ search.brave.com#@#+js(no-fetch-if, body:browser)
 search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
 search.brave.com##.svelte-17pwp0o.ask-history-info
 search.brave.com##.svelte-1uzjrox.tap-input-clear-button > .icon > path
-search.brave.com##.svelte-1uzjrox.tap-input-primary-actions > .svelte-7b1tqz.header-button > .svelte-7b1tqz.header-button-icon
 search.brave.com##.svelte-t22puq.t-tertiary.desktop-xsmall-regular.ask-ai-disclaimer
 search.brave.com###search-ad
 search.brave.com###searchform-actions
