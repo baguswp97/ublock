@@ -26219,10 +26219,16 @@ m.tipsport.cz##.BottomSheet-styled__Wrapper-sc-34adbe71-1
 m.tomtop.com##.bm_dialog
 m.tomtop.com##.bm_dialogBg
 m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
+m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-reel-shelf-renderer
+m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-shorts-lockup-view-model:upward(ytm-rich-section-renderer)
 m.youtube.com##.rich-section-content
 m.youtube.com##+js(rc, paused-mode, , stay)
+m.youtube.com##yt-tab-shape[tab-title="Shorts"]
 m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
 m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
+m.youtube.com##ytm-shorts-lockup-view-model:upward(grid-shelf-view-model)
+m.youtube.com##ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
 m2-shop.ru##.agreeCookie
 ma-calculatrice.fr###manger-des-minis-gateaux
 maalot.co.il,stevemadden.com##.ot-sdk-container
@@ -30530,6 +30536,7 @@ www.youtube.*##+js(brave-auto-pip)
 www.youtube.com#?##flexible-item-buttons > .ytd-menu-renderer > .ytd-menu-renderer:has-text("Ask")
 www.youtube.com#?##header > .ytd-expandable-metadata-renderer:has-text("Summary")
 www.youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
+www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-reel-shelf-renderer
 www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
 www.youtube.com##.ytd-brand-video-shelf-renderer
 www.youtube.com##.ytd-checkbox-survey-renderer
@@ -30560,6 +30567,8 @@ www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has-text(/How do you fee
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options.ytd-checkbox-survey-renderer)
 www.youtube.com##tp-yt-paper-toast#toast
 www.youtube.com##yt-bubble-hint-renderer > .yt-bubble-hint-renderer:has(.yt-formatted-string:has-text(Memebership))
+www.youtube.com##yt-chip-cloud-chip-renderer:has(.ytChipShapeInactive:has-text(/^Shorts$/i))
+www.youtube.com##yt-tab-shape[tab-title="Shorts"]
 www.youtube.com##yt-video-description-youchat-section-view-model
 www.youtube.com##ytd-brand-video-shelf-renderer
 www.youtube.com##ytd-brand-video-singleton-renderer
@@ -30568,20 +30577,27 @@ www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id^="shopping
 www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-ads"]
 www.youtube.com##ytd-feed-nudge-renderer
 www.youtube.com##ytd-feedback-survey-renderer
+www.youtube.com##ytd-guide-entry-renderer:has(.ytd-guide-entry-renderer[title="Shorts"])
 www.youtube.com##ytd-inline-survey-renderer
 www.youtube.com##ytd-merch-shelf-renderer
 www.youtube.com##ytd-metadata-row-container-renderer:has(ytd-rich-metadata-renderer[component-style="RICH_METADATA_RENDERER_STYLE_SQUARE"])
+www.youtube.com##ytd-mini-guide-entry-renderer:has(.ytd-mini-guide-entry-renderer[title="Shorts"])
 www.youtube.com##ytd-multi-stage-survey-renderer
 www.youtube.com##ytd-popup-container:has(>tp-yt-paper-dialog>ytd-offline-promo-renderer)
 www.youtube.com##ytd-rating-survey-renderer
 www.youtube.com##ytd-red-cancel-survey-renderer
 www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 www.youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape--membership)
+www.youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid] ytm-shorts-lockup-view-model:upward(ytd-rich-item-renderer[rendered-from-rich-grid])
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts],ytd-rich-shelf-renderer[is-shorts]:upward(ytd-rich-section-renderer)
 www.youtube.com##ytd-single-option-survey-renderer
 www.youtube.com##ytd-statement-banner-renderer
 www.youtube.com##ytd-survey-follow-up-renderer
 www.youtube.com##ytd-talk-to-recs-flow-renderer
+www.youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style="SHORTS"]:upward(ytd-video-renderer)
 www.youtube.com##ytd-tvfilm-offer-module-renderer
+www.youtube.com##ytm-chip-cloud-chip-renderer:has([aria-label="Shorts"])
+www.youtube.com##ytm-shorts-lockup-view-model-v2:upward(grid-shelf-view-model)
 wyze.com###wyze-cookie-banner
 x.com,twitter.com,eventbrite.com,wunderground.com,accuweather.com,formula1.com,lenscrafters.com,subway.com,ticketmaster.com.au,ticketmaster.ca,ticketmaster.de,ticketmaster.dk,ticketmaster.es,ticketmaster.co.nz,ticketmaster.co.uk,ticketmaster.co.za,ticketmaster.at,ticketmaster.pl,ticketmaster.fr,ticketmaster.nl,ticketmaster.cz,ticketmaster.com.br,ticketmaster.com,ticketmaster.it,ticketmaster.com.mx,ticketmaster.no,livewithkellyandmark.com,visible.com,porsche.com,uber.com,jdsports.com,engadget.com,yahoo.com,techcrunch.com,rivals.com,kkrt.com,crunchyroll.com,dnb.com,dnb.co.uk,weather.com,ubereats.com##+js(set, navigator.globalPrivacyControl, false)
 x.com,twitter.com,eventbrite.com,wunderground.com,accuweather.com,formula1.com,lenscrafters.com,subway.com,ticketmaster.com.au,ticketmaster.ca,ticketmaster.de,ticketmaster.dk,ticketmaster.es,ticketmaster.co.nz,ticketmaster.co.uk,ticketmaster.co.za,ticketmaster.at,ticketmaster.pl,ticketmaster.fr,ticketmaster.nl,ticketmaster.cz,ticketmaster.com.br,ticketmaster.com,ticketmaster.it,ticketmaster.com.mx,ticketmaster.no,livewithkellyandmark.com,visible.com,porsche.com,uber.com,jdsports.com,engadget.com,yahoo.com,techcrunch.com,rivals.com,kkrt.com,crunchyroll.com,dnb.com,dnb.co.uk,weather.com,ubereats.com##+js(set, Navigator.prototype.globalPrivacyControl, false)
