@@ -21237,6 +21237,8 @@ anime-japan.jp#@#.display_ad
 anime-odcinki.pl,frozenbyte.com##.gdpr_infobar_postion_bottom
 anime2enjoy.com##.notice-board
 animepahe.pw##.ann-fakesite.show.fade.alert-dismissible.alert-top.alert
+animepahe.pw##.hidden-sm-down.sequel
+animepahe.pw##.hidden-sm-down.prequel
 animeschedule.net###custom-consent-wrapper
 animoto.com#?#.z-cover.bg-surface-neutral:has-text(We use tracking to help us)
 anisearch.com##.urgent-msg
@@ -25175,6 +25177,10 @@ idealist.org##[data-qa-id="accept-cookies-alert"]
 ideasoft.io##.police
 idec.org.br##.block-region-footer
 idfa.nl##.css-krtj5s
+idntimes.com###wrapper-ads-header
+idntimes.com###wrapper-ads-footer
+idntimes.com###idnads_header_leaderboard
+idntimes.com##.wrapper-ads
 idoc.tips###IDOCTIPS_cookie_box
 idok.madeira.gov.pt##.jss68
 idp.vodafone.com,shopto.net,snodlandsurgery.org.uk###cookie-consent-wrapper
@@ -29112,6 +29118,12 @@ stwater.co.uk##.stw-alert
 stylchen.pl###cookieMonsterOvr
 stylist3d.com##.comp-accept-cookies-popup
 su.se###svid10_1c7635ca19b2be312be596
+suara.com##.placeholder_medium
+suara.com###div-ad-center_belt
+suara.com##div.placeholder_medium
+suara.com##.notification-banner
+suara.com###anchorads
+suara.com###pariwara_dua
 suasvendas.com##.card.button-fixed
 subaru.com##.at-banner-container
 substack.com##._cookieBanner_t11f1_1
@@ -30784,6 +30796,13 @@ youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerRespon
 youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
 youtube.com#@##consent-bump
 youtube.com#@#+js(brave-video-bg-play)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display: contents !important;)
+youtube.com##ytd-rich-grid-renderer:style(grid-auto-flow: dense !important;)
+youtube.com###contents.ytd-rich-grid-renderer > :not(ytd-rich-item-renderer, ytd-continuation-item-renderer)
+youtube.com##ytd-ghost-grid-renderer
+youtube.com##ytd-rich-item-renderer:has(#content:empty)
+youtube.com##ytd-rich-item-renderer:empty
+youtube.com##ytd-rich-item-renderer[is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important;)
 youtube.com##.rich-section-content.fresh-feeds-dismissals
 youtube.com##.yt-consent
 youtube.com##.ytd-carousel-ad-renderer
